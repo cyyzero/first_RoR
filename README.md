@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby on Rails Tutorial
 
-Things you may want to cover:
+## Hello world
 
-* Ruby version
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). 
 
-* System dependencies
 
-* Configuration
+* Ruby 2.3.1p112
 
-* Database creation
+* Rails 5.1.4
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* To run the test suite
+  ```
+  $ rails server
+  ```

@@ -15,5 +15,6 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 * To run the test suite
   ```
+  $ bundle install
   $ rails server
   ```
